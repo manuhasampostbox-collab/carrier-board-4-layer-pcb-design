@@ -1,0 +1,1 @@
+KiCad 9 carrier board for a drone flight controller, built during my internship at Flying Wedge Defence and Aerospace. Four copper layers (F.Cu, In1.Cu, In2.Cu, B.Cu), an 80-pin Hirose DF17 FMU connector, servo and peripheral headers, EMI filters and SMAJ30A TVS protection. The schematic PDF is included.
